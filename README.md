@@ -17,3 +17,16 @@
    - Install the IDE
    - Open the IDE
    - Start the free trial
+
+
+## Springboot 
+
+### Architecture
+- Frontend (<--> response | request)
+- Controller (<--> dto)
+- Service (<--> model)
+- Repository (<--> query)
+- DB
+
+### Concepts
+1. DTOs
